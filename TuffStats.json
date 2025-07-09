@@ -1,11 +1,11 @@
 
 {
-    "Freddy": {
-        "Type": "Single",
+    "Pikachu": {
+        "Type": "Chain Shock",
         "Image": "rbxassetid://16620053009",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
-        "Max": 8,
+        "Rarity": "PMO",
+        "PlacePrice": 300000000,
+        "Max": 1,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -15,15 +15,15 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 1,
+                "Damage": 404124,
+                "Cooldown": 0.00000001
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Price": 10324,
+                "Range": 1241,
+                "Damage": 2,
+                "Cooldown": 10
             },
             {
                 "Price": 750,
@@ -32,10 +32,10 @@
                 "Cooldown": 1
             },
             {
-                "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Price": 9999999999999999999999999999999999999999999999999999999999999999999999999999,
+                "Range": 150,
+                "Damage": 000909090909090909090909,
+                "Cooldown": 1000000000000000000000
             }
         ]
     }
